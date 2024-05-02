@@ -1,6 +1,3 @@
-# PyGameKodlandTest
-Proyecto de prueba para Kodland hecho por Juan Pablo Dueñas
-
 <h1>PyGameKodlandTest</h1>
     <p>Proyecto de prueba para Kodland hecho por Juan Pablo Dueñas</p>
     <p>Mediante la utilización de la librería PyGame se realizó un clasico juego de Space Invaders.
